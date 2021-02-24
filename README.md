@@ -1,0 +1,1 @@
+Please extract .zip file before launching the game.
